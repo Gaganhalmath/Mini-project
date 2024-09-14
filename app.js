@@ -1,5 +1,5 @@
-//fidential info
-const API_KEY= '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'
+//Confidential info
+const API_KEY= ' '// Enter your OpenAI API
 const submitButton = document.querySelector('#submit')
 const outPutElement = document.querySelector('#output')
 const inputElement = document.querySelector('input')
